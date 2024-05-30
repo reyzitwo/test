@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "private": "true",
-  "source": "src/index.html",
+  "source": "./docs/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
